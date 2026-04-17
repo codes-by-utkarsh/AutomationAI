@@ -25,7 +25,7 @@
         "operation": "download",
         "fileId": {
           "__rl": true,
-          "value": "https://drive.google.com/file/d/1qXQj11aJ14nQH4rvSF5SDRmGCLKXju12/view",
+          "value": "/add resume here",
           "mode": "url"
         },
         "options": {}
@@ -61,14 +61,14 @@
           "value": "1LrX2JZaeP51xqNyRQX66xgCBFhhOH_Vbb_FIvKyD8Ao",
           "mode": "list",
           "cachedResultName": "Job Search n8n",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1LrX2JZaeP51xqNyRQX66xgCBFhhOH_Vbb_FIvKyD8Ao/edit?usp=drivesdk"
+          "cachedResultUrl": "add URL here"
         },
         "sheetName": {
           "__rl": true,
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Filter",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1LrX2JZaeP51xqNyRQX66xgCBFhhOH_Vbb_FIvKyD8Ao/edit#gid=0"
+          "cachedResultUrl": "add URL here"
         },
         "options": {}
       },
@@ -317,14 +317,14 @@
           "value": "1LrX2JZaeP51xqNyRQX66xgCBFhhOH_Vbb_FIvKyD8Ao",
           "mode": "list",
           "cachedResultName": "Job Search n8n",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1LrX2JZaeP51xqNyRQX66xgCBFhhOH_Vbb_FIvKyD8Ao/edit?usp=drivesdk"
+          "cachedResultUrl": "add URL here"
         },
         "sheetName": {
           "__rl": true,
           "value": 1981670003,
           "mode": "list",
           "cachedResultName": "Result",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1LrX2JZaeP51xqNyRQX66xgCBFhhOH_Vbb_FIvKyD8Ao/edit#gid=1981670003"
+          "cachedResultUrl": "add URL here"
         },
         "columns": {
           "mappingMode": "defineBelow",
